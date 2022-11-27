@@ -5,7 +5,7 @@ Predict-the-loan-status-using-Gradient-Boosting-Method
 The notebook explains the Gradient Boosting model and the algorithm behind it:
 This contains:
 ## Table of Contents
-* [Extreme Gradient Boosting](#Extreme_gradient_boosting)
+* [Gradient Boosting](#Gradient_boosting)
     * [Why is XGBoost so known?](#why_xgboost_known)
     * [Hyperparameters](#hyperparameters)
     * [Booster Parameters](#booster_parameters)
